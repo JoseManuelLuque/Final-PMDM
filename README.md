@@ -1,11 +1,2 @@
----
-description: Lista de cosas que quedan por hacer
----
+# Page
 
-# ¿Qué Hacer?
-
-Arreglar diseño (Auto Layouts y Scales):
-
-* [ ] Login
-* [ ] Register
-* [x] Home
