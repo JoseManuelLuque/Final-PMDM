@@ -1,0 +1,1209 @@
+{
+  "name": "login_page",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "5yQoDGnCwbDJpfCoA97UKb",
+    "node": "14:686",
+    "version": "5198195126",
+    "component-id": "49981741513ba335fa8be88fa895ba55b0c4693c"
+  },
+  "default": "Login Page",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "INICIAR SESIÓN"
+      },
+      {
+        "type": "vector",
+        "id": "Logo"
+      },
+      {
+        "type": "group",
+        "id": "Email"
+      },
+      {
+        "type": "group",
+        "id": "Contraseña"
+      },
+      {
+        "type": "group",
+        "id": "inicio Sesion Automatico"
+      },
+      {
+        "type": "group",
+        "id": "Botones"
+      },
+      {
+        "type": "group",
+        "id": "Email_synth"
+      },
+      {
+        "type": "group",
+        "id": "supporting-text"
+      },
+      {
+        "type": "group",
+        "id": "text field"
+      },
+      {
+        "type": "vector",
+        "id": "Active indicator"
+      },
+      {
+        "type": "group",
+        "id": "state-layer"
+      },
+      {
+        "type": "group",
+        "id": "content"
+      },
+      {
+        "type": "group",
+        "id": "trailing-icon"
+      },
+      {
+        "type": "group",
+        "id": "label-text"
+      },
+      {
+        "type": "group",
+        "id": "input-text"
+      },
+      {
+        "type": "text",
+        "id": "label-text1"
+      },
+      {
+        "type": "text",
+        "id": "input-text1"
+      },
+      {
+        "type": "group",
+        "id": "container"
+      },
+      {
+        "type": "group",
+        "id": "state-layer1"
+      },
+      {
+        "type": "group",
+        "id": "Icon"
+      },
+      {
+        "type": "vector",
+        "id": "icon"
+      },
+      {
+        "type": "text",
+        "id": "supporting-text1"
+      },
+      {
+        "type": "group",
+        "id": "Contraseña_synth"
+      },
+      {
+        "type": "group",
+        "id": "supporting-text2"
+      },
+      {
+        "type": "group",
+        "id": "text field1"
+      },
+      {
+        "type": "vector",
+        "id": "Active indicator1"
+      },
+      {
+        "type": "group",
+        "id": "state-layer2"
+      },
+      {
+        "type": "group",
+        "id": "content1"
+      },
+      {
+        "type": "group",
+        "id": "trailing-icon1"
+      },
+      {
+        "type": "group",
+        "id": "label-text2"
+      },
+      {
+        "type": "group",
+        "id": "input-text2"
+      },
+      {
+        "type": "text",
+        "id": "label-text3"
+      },
+      {
+        "type": "text",
+        "id": "input-text3"
+      },
+      {
+        "type": "group",
+        "id": "container1"
+      },
+      {
+        "type": "group",
+        "id": "state-layer3"
+      },
+      {
+        "type": "group",
+        "id": "Icon1"
+      },
+      {
+        "type": "vector",
+        "id": "icon1"
+      },
+      {
+        "type": "text",
+        "id": "supporting-text3"
+      },
+      {
+        "type": "group",
+        "id": "Checkboxes"
+      },
+      {
+        "type": "text",
+        "id": "Inicio de sesion automatico"
+      },
+      {
+        "type": "group",
+        "id": "state-layer4"
+      },
+      {
+        "type": "vector",
+        "id": "container2"
+      },
+      {
+        "type": "group",
+        "id": "Boton Iniciar Sesion"
+      },
+      {
+        "type": "group",
+        "id": "Boton Tegistrarse"
+      },
+      {
+        "type": "group",
+        "id": "state-layer5"
+      },
+      {
+        "type": "text",
+        "id": "label-text4"
+      },
+      {
+        "type": "group",
+        "id": "state-layer6"
+      },
+      {
+        "type": "text",
+        "id": "label-text5"
+      }
+    ],
+    "modes": {
+      "Login Page": {
+        "rules": [
+          {
+            "id": "top_level",
+            "padding": {
+              "top": 4.0,
+              "bottom": 4.0
+            },
+            "children": [
+              "INICIAR SESIÓN",
+              "Logo",
+              "Email",
+              "Contraseña",
+              "inicio Sesion Automatico",
+              "Botones"
+            ],
+            "item-spacing": 24.0,
+            "fills": [
+              {
+                "color": {},
+                "opacity": 1.0,
+                "fill-type": "lineargradient",
+                "blend-mode": "normal",
+                "color-stops": [
+                  {
+                    "color": {
+                      "alpha": 1.0,
+                      "hue": 25.176470588235293,
+                      "saturation": 1.0,
+                      "value": 1.0
+                    },
+                    "color-stop-position": 0.0
+                  },
+                  {
+                    "color": {
+                      "alpha": 1.0,
+                      "hue": 25.625000000000004,
+                      "saturation": 0.6530612244897959,
+                      "value": 0.5764705882352941
+                    },
+                    "color-stop-position": 1.0
+                  }
+                ],
+                "gradient-handle-positions": [
+                  {
+                    "x": 0.5,
+                    "y": 0.0
+                  },
+                  {
+                    "x": 0.5,
+                    "y": 1.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "INICIAR SESIÓN",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 58.0
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "INICIAR SESIÓN",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 32.0,
+            "letter-spacing": 0.10000000149011612,
+            "line-height": 0.625,
+            "typeface": "Righteous"
+          },
+          {
+            "id": "Logo",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 265.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 265.0
+              }
+            },
+            "vector-content": "logo.svg"
+          },
+          {
+            "id": "Email",
+            "border-radius": 6.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 328.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 56.0
+              }
+            },
+            "stroke-alignment": "center",
+            "is-structured": false,
+            "children": [
+              "Email_synth",
+              "supporting-text"
+            ]
+          },
+          {
+            "id": "Contraseña",
+            "border-radius": 6.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 328.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 56.0
+              }
+            },
+            "stroke-alignment": "center",
+            "is-structured": false,
+            "children": [
+              "Contraseña_synth",
+              "supporting-text2"
+            ]
+          },
+          {
+            "id": "inicio Sesion Automatico",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Checkboxes",
+              "Inicio de sesion automatico"
+            ],
+            "item-spacing": -14.0,
+            "clip-content": false
+          },
+          {
+            "id": "Botones",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Boton Iniciar Sesion",
+              "Boton Tegistrarse"
+            ],
+            "item-spacing": 15.0,
+            "clip-content": false
+          },
+          {
+            "id": "Email_synth",
+            "opacity": 100.0,
+            "border-radius": 6.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 328.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 56.0
+              }
+            },
+            "stroke-alignment": "center",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "text field",
+              "Active indicator"
+            ]
+          },
+          {
+            "id": "supporting-text",
+            "presence": false,
+            "padding": {
+              "left": 16.0,
+              "top": 4.0,
+              "right": 16.0
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": 20.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 20.0
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "supporting-text1"
+            ],
+            "item-spacing": 10.0,
+            "clip-content": false
+          },
+          {
+            "id": "text field",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "state-layer"
+            ],
+            "item-spacing": 10.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 280.00000000000006,
+              "saturation": 0.03862660944206007,
+              "value": 0.9137254901960784
+            },
+            "clip-content": false
+          },
+          {
+            "id": "Active indicator",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": -1.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 0.0
+              }
+            },
+            "vector-content": "active_indicator.svg"
+          },
+          {
+            "id": "state-layer",
+            "padding": {
+              "left": 16.0,
+              "top": 4.0,
+              "bottom": 4.0
+            },
+            "stroke-alignment": "center",
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "content",
+              "trailing-icon"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "content",
+            "padding": {
+              "top": 4.0,
+              "bottom": 4.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "cross-axis-align": "start",
+            "children": [
+              "label-text",
+              "input-text"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "trailing-icon",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "children": [
+              "container"
+            ],
+            "item-spacing": 10.0,
+            "clip-content": false
+          },
+          {
+            "id": "label-text",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "label-text1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "input-text",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "input-text1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "label-text1",
+            "color": {
+              "alpha": 1.0,
+              "hue": 263.99999999999994,
+              "saturation": 0.12658227848101275,
+              "value": 0.30980392156862746
+            },
+            "text-content": "Email",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "input-text1",
+            "color": {
+              "alpha": 1.0,
+              "hue": 264.0,
+              "saturation": 0.15625,
+              "value": 0.12549019607843137
+            },
+            "text-content": "Correo Electronico",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": 16.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "container",
+            "border-radius": 100.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "state-layer1"
+            ],
+            "item-spacing": 10.0
+          },
+          {
+            "id": "state-layer1",
+            "padding": 8.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Icon"
+            ],
+            "item-spacing": 10.0,
+            "clip-content": false
+          },
+          {
+            "id": "Icon",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "icon"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "icon",
+            "margin": 2.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "icon.svg"
+          },
+          {
+            "id": "supporting-text1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 263.99999999999994,
+              "saturation": 0.12658227848101275,
+              "value": 0.30980392156862746
+            },
+            "text-content": "",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.3333332824707032
+          },
+          {
+            "id": "Contraseña_synth",
+            "opacity": 100.0,
+            "border-radius": 6.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 328.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 56.0
+              }
+            },
+            "stroke-alignment": "center",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "text field1",
+              "Active indicator1"
+            ]
+          },
+          {
+            "id": "supporting-text2",
+            "presence": false,
+            "padding": {
+              "left": 16.0,
+              "top": 4.0,
+              "right": 16.0
+            },
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": 20.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 20.0
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "supporting-text3"
+            ],
+            "item-spacing": 10.0,
+            "clip-content": false
+          },
+          {
+            "id": "text field1",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "state-layer2"
+            ],
+            "item-spacing": 10.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 280.00000000000006,
+              "saturation": 0.03862660944206007,
+              "value": 0.9137254901960784
+            },
+            "clip-content": false
+          },
+          {
+            "id": "Active indicator1",
+            "presence": false,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 0.0
+              }
+            }
+          },
+          {
+            "id": "state-layer2",
+            "padding": {
+              "left": 16.0,
+              "top": 4.0,
+              "bottom": 4.0
+            },
+            "stroke-alignment": "center",
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "content1",
+              "trailing-icon1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "content1",
+            "padding": {
+              "top": 4.0,
+              "bottom": 4.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "cross-axis-align": "start",
+            "children": [
+              "label-text2",
+              "input-text2"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "trailing-icon1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "children": [
+              "container1"
+            ],
+            "item-spacing": 10.0,
+            "clip-content": false
+          },
+          {
+            "id": "label-text2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "label-text3"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "input-text2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "input-text3"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "label-text3",
+            "color": {
+              "alpha": 1.0,
+              "hue": 263.99999999999994,
+              "saturation": 0.12658227848101275,
+              "value": 0.30980392156862746
+            },
+            "text-content": "Contraseña",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "input-text3",
+            "color": {
+              "alpha": 1.0,
+              "hue": 264.0,
+              "saturation": 0.15625,
+              "value": 0.12549019607843137
+            },
+            "text-content": "Contraseña",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": 16.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "container1",
+            "border-radius": 100.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "state-layer3"
+            ],
+            "item-spacing": 10.0
+          },
+          {
+            "id": "state-layer3",
+            "padding": 8.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Icon1"
+            ],
+            "item-spacing": 10.0,
+            "clip-content": false
+          },
+          {
+            "id": "Icon1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "icon1"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "icon1",
+            "margin": 2.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "icon1.svg"
+          },
+          {
+            "id": "supporting-text3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 263.99999999999994,
+              "saturation": 0.12658227848101275,
+              "value": 0.30980392156862746
+            },
+            "text-content": "",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 12.0,
+            "line-height": 1.3333332824707032
+          },
+          {
+            "id": "Checkboxes",
+            "padding": 4.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "children": [
+              "state-layer4"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Inicio de sesion automatico",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 230.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 44.0
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Inicio de sesion automatico",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 16.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "state-layer4",
+            "padding": 11.0,
+            "border-radius": 100.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "container2"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "container2",
+            "border-radius": 2.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 18.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 18.0
+              }
+            },
+            "vector-content": "container.svg"
+          },
+          {
+            "id": "Boton Iniciar Sesion",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 150.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 40.0
+              }
+            },
+            "stroke-alignment": "center",
+            "children": [
+              "state-layer5"
+            ],
+            "item-spacing": 8.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 17.01923076923077,
+              "saturation": 0.8702928870292886,
+              "value": 0.9372549019607843
+            }
+          },
+          {
+            "id": "Boton Tegistrarse",
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 150.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 40.0
+              }
+            },
+            "stroke-alignment": "center",
+            "children": [
+              "state-layer6"
+            ],
+            "item-spacing": 8.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 17.01923076923077,
+              "saturation": 0.8702928870292886,
+              "value": 0.9372549019607843
+            }
+          },
+          {
+            "id": "state-layer5",
+            "padding": {
+              "left": 24.0,
+              "top": 10.0,
+              "right": 24.0,
+              "bottom": 10.0
+            },
+            "arrangement": "row",
+            "children": [
+              "label-text4"
+            ],
+            "item-spacing": 8.0,
+            "clip-content": false
+          },
+          {
+            "id": "label-text4",
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Iniciar Sesion",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": 16.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "state-layer6",
+            "padding": {
+              "left": 24.0,
+              "top": 10.0,
+              "right": 24.0,
+              "bottom": 10.0
+            },
+            "arrangement": "row",
+            "children": [
+              "label-text5"
+            ],
+            "item-spacing": 8.0,
+            "clip-content": false
+          },
+          {
+            "id": "label-text5",
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Registrarse",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": 16.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Login Page",
+      "size": {
+        "width": 360.0,
+        "height": 802.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

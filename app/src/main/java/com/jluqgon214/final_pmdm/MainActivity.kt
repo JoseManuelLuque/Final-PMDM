@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    com.jluqgon214.final_pmdm.homepage.HomePage()
+                    com.jluqgon214.final_pmdm.ui.LoginPage()
                 }
             }
         }

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054831945887",
+    "project_id": "final-pmdm-89c2e",
+    "storage_bucket": "final-pmdm-89c2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054831945887:android:aa768bfe7f7d3f8aa15aaa",
+        "android_client_info": {
+          "package_name": "com.jluqgon214.final_pmdm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnsHaY_OHEM77WYqxB_Iuvhfs5X_8lhLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
