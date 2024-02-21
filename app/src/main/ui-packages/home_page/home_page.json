@@ -1,0 +1,1307 @@
+{
+  "name": "home_page",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "5yQoDGnCwbDJpfCoA97UKb",
+    "node": "14:685",
+    "version": "5198195126",
+    "component-id": "ed9165c00ddcdaddb275e8c7a50365e511e5f14e"
+  },
+  "default": "Home Page",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Top app bar Home Page"
+      },
+      {
+        "type": "text",
+        "id": "Perros →"
+      },
+      {
+        "type": "group",
+        "id": "Cards Slider Perros"
+      },
+      {
+        "type": "text",
+        "id": "Gatos →"
+      },
+      {
+        "type": "group",
+        "id": "Cards Slider Gatos"
+      },
+      {
+        "type": "group",
+        "id": "Ic 3 rayas HP"
+      },
+      {
+        "type": "text",
+        "id": "Titulo App HP"
+      },
+      {
+        "type": "group",
+        "id": "Ic Perfil HP"
+      },
+      {
+        "type": "group",
+        "id": "Cont Ic 3R HP"
+      },
+      {
+        "type": "group",
+        "id": "state-layer"
+      },
+      {
+        "type": "group",
+        "id": "Icons/menu_24px"
+      },
+      {
+        "type": "vector",
+        "id": "icon"
+      },
+      {
+        "type": "group",
+        "id": "Cont Ic Perfil HP"
+      },
+      {
+        "type": "group",
+        "id": "Layer Ic Perfil"
+      },
+      {
+        "type": "group",
+        "id": "Icons/account_circle_filled_24px"
+      },
+      {
+        "type": "vector",
+        "id": "Ic Perfil"
+      },
+      {
+        "type": "group",
+        "id": "Card Perro 6"
+      },
+      {
+        "type": "group",
+        "id": "Card Perro 2"
+      },
+      {
+        "type": "group",
+        "id": "Card Perro3"
+      },
+      {
+        "type": "group",
+        "id": "Card Perro 4"
+      },
+      {
+        "type": "group",
+        "id": "Card Perro 5"
+      },
+      {
+        "type": "image",
+        "id": "Imagen Perro 1"
+      },
+      {
+        "type": "text",
+        "id": "Nombre Perro 1"
+      },
+      {
+        "type": "text",
+        "id": "Raza Perro 1"
+      },
+      {
+        "type": "image",
+        "id": "Imagen Perro 2"
+      },
+      {
+        "type": "text",
+        "id": "Nombre Perro 2"
+      },
+      {
+        "type": "text",
+        "id": "Raza Perro 2"
+      },
+      {
+        "type": "image",
+        "id": "Imagen Perro 3"
+      },
+      {
+        "type": "text",
+        "id": "Nombre Perro 3"
+      },
+      {
+        "type": "text",
+        "id": "Raza Perro 3"
+      },
+      {
+        "type": "image",
+        "id": "Imagen Perro 4"
+      },
+      {
+        "type": "text",
+        "id": "Nombre Perro 4"
+      },
+      {
+        "type": "text",
+        "id": "Raza Perro 4"
+      },
+      {
+        "type": "image",
+        "id": "Imagen Perro 5"
+      },
+      {
+        "type": "text",
+        "id": "Nombre Perro 5"
+      },
+      {
+        "type": "text",
+        "id": "Raza Perro 5"
+      },
+      {
+        "type": "group",
+        "id": "Card Gato 1"
+      },
+      {
+        "type": "group",
+        "id": "Card Gato 2"
+      },
+      {
+        "type": "group",
+        "id": "Card Gato 3"
+      },
+      {
+        "type": "group",
+        "id": "Card Gato 4"
+      },
+      {
+        "type": "group",
+        "id": "Card Gato 5"
+      },
+      {
+        "type": "image",
+        "id": "Imagen Gato 1"
+      },
+      {
+        "type": "text",
+        "id": "Nombre Gato 1"
+      },
+      {
+        "type": "text",
+        "id": "Raza Gato 1"
+      },
+      {
+        "type": "image",
+        "id": "Imagen Gato 2"
+      },
+      {
+        "type": "text",
+        "id": "Nombre Gato 2"
+      },
+      {
+        "type": "text",
+        "id": "Raza Gato 2"
+      },
+      {
+        "type": "image",
+        "id": "Imagen Gato 3"
+      },
+      {
+        "type": "text",
+        "id": "Nombre Gato 3"
+      },
+      {
+        "type": "text",
+        "id": "Raza Gato 3"
+      },
+      {
+        "type": "image",
+        "id": "Imagen Gato 4"
+      },
+      {
+        "type": "text",
+        "id": "Nombre Gato 4"
+      },
+      {
+        "type": "text",
+        "id": "Raza Gato 4"
+      },
+      {
+        "type": "image",
+        "id": "Imagen Gato 5"
+      },
+      {
+        "type": "text",
+        "id": "Nombre Gato 5"
+      },
+      {
+        "type": "text",
+        "id": "Raza Gato 5"
+      }
+    ],
+    "modes": {
+      "Home Page": {
+        "rules": [
+          {
+            "id": "top_level",
+            "main-axis-align": "start",
+            "children": [
+              "Top app bar Home Page",
+              "Perros →",
+              "Cards Slider Perros",
+              "Gatos →",
+              "Cards Slider Gatos"
+            ],
+            "item-spacing": 24.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 12.972972972972968,
+              "saturation": 0.1462450592885376,
+              "value": 0.9921568627450981
+            }
+          },
+          {
+            "id": "Top app bar Home Page",
+            "padding": {
+              "left": 4.0,
+              "top": 8.0,
+              "right": 4.0,
+              "bottom": 8.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 56.0
+              }
+            },
+            "stroke-alignment": "center",
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Ic 3 rayas HP",
+              "Titulo App HP",
+              "Ic Perfil HP"
+            ],
+            "item-spacing": 6.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 32.23529411764706,
+              "saturation": 1.0,
+              "value": 1.0
+            },
+            "clip-content": false
+          },
+          {
+            "id": "Perros →",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 318.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 35.0
+              }
+            },
+            "font-weight": 700.0,
+            "text-content": "Perros →",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 30.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Cards Slider Perros",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 328.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Card Perro 6",
+              "Card Perro 2",
+              "Card Perro3",
+              "Card Perro 4",
+              "Card Perro 5"
+            ],
+            "item-spacing": 10.0,
+            "scrollable": true
+          },
+          {
+            "id": "Gatos →",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 318.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 35.0
+              }
+            },
+            "font-weight": 700.0,
+            "text-content": "Gatos →",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-size": 30.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Cards Slider Gatos",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 329.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Card Gato 1",
+              "Card Gato 2",
+              "Card Gato 3",
+              "Card Gato 4",
+              "Card Gato 5"
+            ],
+            "item-spacing": 10.0,
+            "scrollable": true
+          },
+          {
+            "id": "Ic 3 rayas HP",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "children": [
+              "Cont Ic 3R HP"
+            ],
+            "item-spacing": 10.0,
+            "clip-content": false
+          },
+          {
+            "id": "Titulo App HP",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 264.0,
+              "saturation": 0.15625,
+              "value": 0.12549019607843137
+            },
+            "text-content": "Adopt Me",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 24.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Ic Perfil HP",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 48.0
+              }
+            },
+            "children": [
+              "Cont Ic Perfil HP"
+            ],
+            "item-spacing": 10.0,
+            "clip-content": false
+          },
+          {
+            "id": "Cont Ic 3R HP",
+            "border-radius": 100.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "state-layer"
+            ],
+            "item-spacing": 10.0
+          },
+          {
+            "id": "state-layer",
+            "padding": 8.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Icons/menu_24px"
+            ],
+            "item-spacing": 10.0,
+            "clip-content": false
+          },
+          {
+            "id": "Icons/menu_24px",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "icon"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "icon",
+            "margin": {
+              "left": 3.0,
+              "top": 6.0,
+              "right": 3.0,
+              "bottom": 6.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "icon.svg"
+          },
+          {
+            "id": "Cont Ic Perfil HP",
+            "border-radius": 100.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Layer Ic Perfil"
+            ],
+            "item-spacing": 10.0
+          },
+          {
+            "id": "Layer Ic Perfil",
+            "padding": 8.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Icons/account_circle_filled_24px"
+            ],
+            "item-spacing": 10.0,
+            "clip-content": false
+          },
+          {
+            "id": "Icons/account_circle_filled_24px",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 24.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Ic Perfil"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Ic Perfil",
+            "margin": 2.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "ic_perfil.svg"
+          },
+          {
+            "id": "Card Perro 6",
+            "border-radius": 30.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "Imagen Perro 1",
+              "Nombre Perro 1",
+              "Raza Perro 1"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 32.465753424657535,
+              "saturation": 0.6083333333333333,
+              "value": 0.9411764705882353
+            }
+          },
+          {
+            "id": "Card Perro 2",
+            "border-radius": 30.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "Imagen Perro 2",
+              "Nombre Perro 2",
+              "Raza Perro 2"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 32.465753424657535,
+              "saturation": 0.6083333333333333,
+              "value": 0.9411764705882353
+            }
+          },
+          {
+            "id": "Card Perro3",
+            "border-radius": 30.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "Imagen Perro 3",
+              "Nombre Perro 3",
+              "Raza Perro 3"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 32.465753424657535,
+              "saturation": 0.6083333333333333,
+              "value": 0.9411764705882353
+            }
+          },
+          {
+            "id": "Card Perro 4",
+            "border-radius": 30.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "Imagen Perro 4",
+              "Nombre Perro 4",
+              "Raza Perro 4"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 32.465753424657535,
+              "saturation": 0.6083333333333333,
+              "value": 0.9411764705882353
+            }
+          },
+          {
+            "id": "Card Perro 5",
+            "border-radius": 30.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "Imagen Perro 5",
+              "Nombre Perro 5",
+              "Raza Perro 5"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 32.465753424657535,
+              "saturation": 0.6083333333333333,
+              "value": 0.9411764705882353
+            }
+          },
+          {
+            "id": "Imagen Perro 1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 151.0
+              }
+            },
+            "image-content": "imagen_perro_1.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "Nombre Perro 1",
+            "font-weight": 700.0,
+            "text-content": "Nombre Perro",
+            "overflow": "visible",
+            "text-size": 16.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Raza Perro 1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 18.0
+              }
+            },
+            "text-content": "Raza Perro",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 12.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Imagen Perro 2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 151.0
+              }
+            },
+            "image-content": "imagen_perro_2.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "Nombre Perro 2",
+            "font-weight": 700.0,
+            "text-content": "Nombre Perro",
+            "overflow": "visible",
+            "text-size": 16.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Raza Perro 2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 18.0
+              }
+            },
+            "text-content": "Raza Perro",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 12.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Imagen Perro 3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 151.0
+              }
+            },
+            "image-content": "imagen_perro_3.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "Nombre Perro 3",
+            "font-weight": 700.0,
+            "text-content": "Nombre Perro",
+            "overflow": "visible",
+            "text-size": 16.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Raza Perro 3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 18.0
+              }
+            },
+            "text-content": "Raza Perro",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 12.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Imagen Perro 4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 151.0
+              }
+            },
+            "image-content": "imagen_perro_4.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "Nombre Perro 4",
+            "font-weight": 700.0,
+            "text-content": "Nombre Perro",
+            "overflow": "visible",
+            "text-size": 16.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Raza Perro 4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 18.0
+              }
+            },
+            "text-content": "Raza Perro",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 12.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Imagen Perro 5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 151.0
+              }
+            },
+            "image-content": "imagen_perro_5.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "Nombre Perro 5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 110.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 22.0
+              }
+            },
+            "font-weight": 700.0,
+            "text-content": "Nombre Perro",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 16.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Raza Perro 5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 18.0
+              }
+            },
+            "text-content": "Raza Perro",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 12.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Card Gato 1",
+            "border-radius": 30.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "Imagen Gato 1",
+              "Nombre Gato 1",
+              "Raza Gato 1"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 32.465753424657535,
+              "saturation": 0.6083333333333333,
+              "value": 0.9411764705882353
+            }
+          },
+          {
+            "id": "Card Gato 2",
+            "border-radius": 30.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "Imagen Gato 2",
+              "Nombre Gato 2",
+              "Raza Gato 2"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 32.465753424657535,
+              "saturation": 0.6083333333333333,
+              "value": 0.9411764705882353
+            }
+          },
+          {
+            "id": "Card Gato 3",
+            "border-radius": 30.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "Imagen Gato 3",
+              "Nombre Gato 3",
+              "Raza Gato 3"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 32.465753424657535,
+              "saturation": 0.6083333333333333,
+              "value": 0.9411764705882353
+            }
+          },
+          {
+            "id": "Card Gato 4",
+            "border-radius": 30.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "Imagen Gato 4",
+              "Nombre Gato 4",
+              "Raza Gato 4"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 32.465753424657535,
+              "saturation": 0.6083333333333333,
+              "value": 0.9411764705882353
+            }
+          },
+          {
+            "id": "Card Gato 5",
+            "border-radius": 30.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 200.0
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "Imagen Gato 5",
+              "Nombre Gato 5",
+              "Raza Gato 5"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 32.465753424657535,
+              "saturation": 0.6083333333333333,
+              "value": 0.9411764705882353
+            }
+          },
+          {
+            "id": "Imagen Gato 1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 151.0
+              }
+            },
+            "image-content": "imagen_gato_1.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "Nombre Gato 1",
+            "font-weight": 700.0,
+            "text-content": "Nombre Gato",
+            "overflow": "visible",
+            "text-size": 16.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Raza Gato 1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 165.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 18.0
+              }
+            },
+            "text-content": "Raza Gato",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 12.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Imagen Gato 2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 151.0
+              }
+            },
+            "image-content": "imagen_gato_2.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "Nombre Gato 2",
+            "font-weight": 700.0,
+            "text-content": "Nombre Gato",
+            "overflow": "visible",
+            "text-size": 16.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Raza Gato 2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 18.0
+              }
+            },
+            "text-content": "Raza Perro",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 12.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Imagen Gato 3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 151.0
+              }
+            },
+            "image-content": "imagen_gato_3.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "Nombre Gato 3",
+            "font-weight": 700.0,
+            "text-content": "Nombre Gato",
+            "overflow": "visible",
+            "text-size": 16.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Raza Gato 3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 18.0
+              }
+            },
+            "text-content": "Raza Perro",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 12.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Imagen Gato 4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 151.0
+              }
+            },
+            "image-content": "imagen_gato_4.jpeg",
+            "scale": "cover"
+          },
+          {
+            "id": "Nombre Gato 4",
+            "font-weight": 700.0,
+            "text-content": "Nombre Gato",
+            "overflow": "visible",
+            "text-size": 16.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Raza Gato 4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 18.0
+              }
+            },
+            "text-content": "Raza Perro",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 12.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Imagen Gato 5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 151.0
+              }
+            },
+            "image-content": "imagen_gato_5.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Nombre Gato 5",
+            "font-weight": 700.0,
+            "text-content": "Nombre Gato",
+            "overflow": "visible",
+            "text-size": 16.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          },
+          {
+            "id": "Raza Gato 5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 103.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 18.0
+              }
+            },
+            "text-content": "Raza Perro",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 12.0,
+            "line-height": 1.3229999542236328,
+            "typeface": "Red Hat Display"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Home Page",
+      "size": {
+        "width": 360.0,
+        "height": 800.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
