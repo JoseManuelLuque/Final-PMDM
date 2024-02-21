@@ -7,3 +7,8 @@ description: >-
 
 # Proyecto Final PMDM-DIN
 
+
+
+{% content-ref url="proyecto-final-pmdm-din/prueba.md" %}
+[prueba.md](proyecto-final-pmdm-din/prueba.md)
+{% endcontent-ref %}
