@@ -1,4 +1,4 @@
-package com.jluqgon214.final_pmdm.ui
+package com.jluqgon214.final_pmdm.ui.Login
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.PaddingValues
@@ -124,17 +124,6 @@ fun LoginPage(modifier: Modifier = Modifier) {
         }
     }
 }
-
-@Preview(widthDp = 360, heightDp = 802)
-@Composable
-private fun LoginPagePreview() {
-    MaterialTheme {
-        RelayContainer {
-            LoginPage(modifier = Modifier.rowWeight(1.0f).columnWeight(1.0f))
-        }
-    }
-}
-
 @Composable
 fun INICIARSESIN(modifier: Modifier = Modifier) {
     RelayText(

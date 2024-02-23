@@ -1,4 +1,4 @@
-package com.jluqgon214.final_pmdm.ui
+package com.jluqgon214.final_pmdm.ui.Login
 
 import androidx.compose.ui.text.font.Font
 import androidx.compose.ui.text.font.FontFamily
